@@ -14,7 +14,7 @@ public class Helloworld {
         }
     }
     public static void main(String[] args) {
-        System.out.println("hello world naveen , how are you");
+        System.out.println("hello world naveen, how are you");
 
         Helloworld hy = new Helloworld();
         hy.printNumbers();
