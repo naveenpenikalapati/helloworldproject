@@ -7,7 +7,7 @@ public class Helloworld {
             System.out.println(i);
         }
     }
-    public void printNumbers1()
+    public void showNumbers1()
     {
         for(int i=0;i<=20;i++) {
             System.out.println(i);
@@ -18,7 +18,7 @@ public class Helloworld {
         System.out.println("Iam good");
         Helloworld hy = new Helloworld();
         hy.printNumbers();
-        hy.printNumbers1();
+        hy.showNumbers1();
 //        System.out.println("hello world - 3 commit");
 //        System.out.println("hello world - 4 commit");
     }
