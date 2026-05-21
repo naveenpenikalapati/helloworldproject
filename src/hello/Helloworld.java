@@ -7,7 +7,7 @@ public class Helloworld {
             System.out.println(i);
         }
     }
-    public void showNumbers1()
+    public void shoWNumbers1()
     {
         for(int i=0;i<=20;i++) {
             System.out.println(i);
